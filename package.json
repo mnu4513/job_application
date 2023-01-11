@@ -1,0 +1,17 @@
+{
+    "name": "job-application",
+    "author": {
+        "name": "jay",
+        "email": "mnu4513@gmail.com"
+    },
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "jsonwebtoken": "^9.0.0",
+        "mongoose": "^6.8.3",
+        "password-validator": "^5.3.0"
+    }
+}
